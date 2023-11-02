@@ -29,11 +29,12 @@ location which is received in JSON Data in google Maps activity and set the zoom
 
 
 
-![Dark theme](https://github.com/Harshil-Ghadiya/MAD_Practical-10_21012021031/assets/122811629/dbe79129-eede-43e1-b4f1-e7f206d041d2)
+[Dark theme](https://github.com/Harshil-Ghadiya/MAD_Practical-10_21012021031/assets/122811629/dbe79129-eede-43e1-b4f1-e7f206d041d2)
 
 
 
-![279733543-cc343b1c-cf6a-4dee-9e52-7b097a6c4fdb](https://github.com/Harshil-Ghadiya/MAD_Practical-10_21012021031/assets/122811629/58f0fd2c-f62f-472a-b21c-3e781d8d84dc)
+
+[279733543-cc343b1c-cf6a-4dee-9e52-7b097a6c4fdb](https://github.com/Harshil-Ghadiya/MAD_Practical-10_21012021031/assets/122811629/58f0fd2c-f62f-472a-b21c-3e781d8d84dc)
 
 
 
